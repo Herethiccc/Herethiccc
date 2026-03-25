@@ -9,9 +9,6 @@
   
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Herethicc&gstats=show&style=midnight) 
 
-<h2 align="center">TryHackMe grind</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Herethicc.png" alt="Your Image Badge" />
-
 <h2 align="center">Miscellaneous</h2>  
 
 <h3 align="left">Connect with me:</h3>
