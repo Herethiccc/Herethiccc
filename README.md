@@ -5,12 +5,6 @@
 
 - ⚡ Fun fact: **VGhleSBjYWxsIG1lIFBldGVyIEJhcmtlcg==**
 
-<h2 align="center">Root-Me grind</h2>  
-  
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Herethicc&gstats=show&style=midnight) 
-
-<h2 align="center">Miscellaneous</h2>  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peterbarker69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterbarker69" height="30" width="40" /></a>
